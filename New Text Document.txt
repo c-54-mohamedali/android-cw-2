@@ -1,0 +1,12 @@
+
+
+     public static void main(String []args){
+     m();
+     }
+public static void m(){
+for (int x =1 ; x<=10 ; x++){
+    
+    System.out.println(x);
+}    
+}
+}// close Hello
